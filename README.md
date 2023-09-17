@@ -1,6 +1,7 @@
 # Mist
 ---------------------------------------------------------------------------------------------------------------------------------------------
-MIST is a FPS game built using Unity game engine with Thirdweb. 
+MIST is a FPS game built using Unity game engine with Thirdweb.
+This game is deployed on ipfs using spheron dapp.
 
 I have used the NFT contract which is 0x9aE7219c080CE39b08b862e6Cc7876ac308039dE
 and Edition contract 0x5582510EE0105A1342a53D7D21bF4EaF0F856D0B
